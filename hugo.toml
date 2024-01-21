@@ -1,0 +1,4 @@
+baseURL = 'http://195.35.8.185/'
+languageCode = 'en-us'
+title = 'SaNeOr Blog'
+theme = "paperMod"
